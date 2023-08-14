@@ -1,0 +1,14 @@
+{
+    "yellow": {
+        "ether_addr": "1c:34:da:6a:30:56",
+        "ip_addr": "10.1.1.9",
+        "interface": "enp33s0",
+        "port_id": 188
+    },
+    "red": {
+        "ether_addr": "1c:34:da:6a:2f:52",
+        "ip_addr": "10.1.1.8",
+        "interface": "enp65s0",
+        "port_id": 180
+    }
+}
